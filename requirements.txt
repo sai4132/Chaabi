@@ -1,0 +1,9 @@
+qdrant-client
+numpy
+pandas
+python-dotenv
+transformers
+torch
+flask
+flask_restful
+flask_cors
