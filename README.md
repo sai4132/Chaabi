@@ -6,9 +6,11 @@ Or, you can use any host with qdrant deployed and use the snapshot of vector db 
 You can now run search.py file and use query function with input your request as a string. You can print it out to clearly see the result obtained. <br>
 Now, the work is wrapped in a API using flask and REST for which you can find in flask.py. To request from flask.py you can edit request.py with your own search string.
 
-![image](https://github.com/sai4132/Chaabi/assets/86120933/0ed6f3fe-1635-43b1-938a-3eae33dd4f46)
-![image](https://github.com/sai4132/Chaabi/assets/86120933/f4e64336-e767-48bf-98b6-d5618964bc5b)
-![image](https://github.com/sai4132/Chaabi/assets/86120933/aa5bed7d-5cbc-464b-86b7-fc81dce4858a)
+![image](https://github.com/sai4132/Chaabi/assets/86120933/ee53804c-3b2e-4813-b939-cfb4d2ab107c)
+![image](https://github.com/sai4132/Chaabi/assets/86120933/22dba21b-c598-4e8c-a57a-bd475b0ffd37)
+![image](https://github.com/sai4132/Chaabi/assets/86120933/d4901dd8-89cc-4fa2-8ae7-f3f356203382)
+
+
 
 
 
